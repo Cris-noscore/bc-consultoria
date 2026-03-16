@@ -23,10 +23,6 @@ export default function Footer() {
               <p className="text-gray-200">contato@businesscenterconsult.com.br</p>
             </div>
             <div>
-              <p className="text-gray-300 font-medium mb-1">Telefone:</p>
-              <p className="text-gray-200">(11) 4195-6733</p>
-            </div>
-            <div>
               <p className="text-gray-300 font-medium mb-1">WhatsApp:</p>
               <p className="text-gray-200">(11) 91353-5562</p>
             </div>

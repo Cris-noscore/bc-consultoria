@@ -5,7 +5,7 @@
 
 export const WHATSAPP_NUMBER = "5511913535562";
 export const WHATSAPP_DISPLAY = "(11) 91353-5562";
-export const PHONE_DISPLAY = "(11) 4195-6733";
+export const PHONE_DISPLAY = WHATSAPP_DISPLAY;
 export const EMAIL_CONTACT = "contato@businesscenterconsult.com.br";
 export const EMAIL_CEO = "silvio.silveira@businesscenterconsult.com.br";
 export const SITE_URL = "https://businesscenterconsult.com.br";

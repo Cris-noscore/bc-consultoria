@@ -66,7 +66,7 @@ export default function HomePage() {
 
             <h1 className="text-4xl md:text-5xl font-bold text-gray-900 leading-tight mb-6">
               Intermediação de Negócios{" "}
-              <span className="text-red-900">Estratégica</span> para sua Empresa
+              <span className="text-red-900">Estratégico</span> para sua Empresa
             </h1>
 
             <p className="text-lg text-gray-600 leading-relaxed mb-8">
