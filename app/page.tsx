@@ -93,7 +93,7 @@ export default function HomePage() {
           <div className="relative w-full max-w-[320px] mx-auto">
             <div className="aspect-square rounded-full border-8 border-white shadow-2xl overflow-hidden relative">
               <Image
-                src="/silvioceo"
+                src="/silvioceo.jpg"
                 alt="Silvio Silveira, CEO e Fundador da BC Consultoria, com mais de 20 anos de experiência em intermediação de negócios"
                 fill
                 sizes="(max-width: 768px) 250px, 320px"
