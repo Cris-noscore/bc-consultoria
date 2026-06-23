@@ -176,7 +176,7 @@ Este documento descreve todas as melhorias implementadas no projeto, organizadas
 ## Próximos Passos (Fase de Deploy)
 
 1. **Migração de domínio:** `BUSINESSCENTERCONSULT.COM.BR` do Registro.br para Google Cloud DNS
-2. **Google Workspace:** Criar e-mails `businesc.group@gmail.com` e `businesc.group@gmail.com`
+2. **Google Workspace:** Criar e-mails `ceo@businesscenterconsult.com.br` e `ceo@businesscenterconsult.com.br`
 3. **Deploy no Google Cloud Run** ou **Vercel**
 4. **Google Search Console:** Verificar domínio e submeter sitemap
 5. **Google Analytics:** Adicionar `NEXT_PUBLIC_GA_ID` no `.env.local`

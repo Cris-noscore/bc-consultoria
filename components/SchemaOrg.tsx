@@ -16,7 +16,7 @@ export default function SchemaOrg() {
         "url": siteUrl,
         "logo": `${siteUrl}/logo.png`,
         "telephone": "+5511913535562",
-        "email": "businesc.group@gmail.com",
+        "email": "ceo@businesscenterconsult.com.br",
         "founder": "Silvio Silveira",
         "foundingDate": "2002",
         "address": {

@@ -6,8 +6,8 @@
 export const WHATSAPP_NUMBER = "5511913535562";
 export const WHATSAPP_DISPLAY = "(11) 91353-5562";
 export const PHONE_DISPLAY = WHATSAPP_DISPLAY;
-export const EMAIL_CONTACT = "businesc.group@gmail.com";
-export const EMAIL_CEO = "businesc.group@gmail.com";
+export const EMAIL_CONTACT = "ceo@businesscenterconsult.com.br";
+export const EMAIL_CEO = "ceo@businesscenterconsult.com.br";
 export const SITE_URL = "https://businesscenterconsult.com.br";
 export const COMPANY_NAME = "BC Consultoria";
 export const CNPJ = "04.355.961/0001-70";

@@ -23,7 +23,7 @@ export function getOrganizationSchema() {
         url: SITE_URL,
         logo: `${SITE_URL}/logo.webp`,
         telephone: "+5511913535562",
-        email: "businesc.group@gmail.com",
+        email: "ceo@businesscenterconsult.com.br",
         founder: "Silvio Silveira",
         foundingDate: "2002",
         address: {

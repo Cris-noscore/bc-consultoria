@@ -20,7 +20,7 @@ export default function Footer() {
           <div className="space-y-4">
             <div>
               <p className="text-gray-300 font-medium mb-1">Email:</p>
-              <p className="text-gray-200">businesc.group@gmail.com</p>
+              <p className="text-gray-200">ceo@businesscenterconsult.com.br</p>
             </div>
             <div>
               <p className="text-gray-300 font-medium mb-1">WhatsApp:</p>
